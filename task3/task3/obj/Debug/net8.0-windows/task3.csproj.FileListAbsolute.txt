@@ -1,0 +1,14 @@
+C:\Users\belog\source\repos\task3\task3\bin\Debug\net8.0-windows\task3.exe
+C:\Users\belog\source\repos\task3\task3\bin\Debug\net8.0-windows\task3.deps.json
+C:\Users\belog\source\repos\task3\task3\bin\Debug\net8.0-windows\task3.runtimeconfig.json
+C:\Users\belog\source\repos\task3\task3\bin\Debug\net8.0-windows\task3.dll
+C:\Users\belog\source\repos\task3\task3\bin\Debug\net8.0-windows\task3.pdb
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.AssemblyInfoInputs.cache
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.AssemblyInfo.cs
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.csproj.CoreCompileInputs.cache
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.dll
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\refint\task3.dll
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.pdb
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\task3.genruntimeconfig.cache
+C:\Users\belog\source\repos\task3\task3\obj\Debug\net8.0-windows\ref\task3.dll
