@@ -1,0 +1,14 @@
+C:\Users\belog\source\repos\task4\task4\bin\Debug\net10.0\task4.exe
+C:\Users\belog\source\repos\task4\task4\bin\Debug\net10.0\task4.deps.json
+C:\Users\belog\source\repos\task4\task4\bin\Debug\net10.0\task4.runtimeconfig.json
+C:\Users\belog\source\repos\task4\task4\bin\Debug\net10.0\task4.dll
+C:\Users\belog\source\repos\task4\task4\bin\Debug\net10.0\task4.pdb
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.AssemblyInfoInputs.cache
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.AssemblyInfo.cs
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.dll
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\refint\task4.dll
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.pdb
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\task4.genruntimeconfig.cache
+C:\Users\belog\source\repos\task4\task4\obj\Debug\net10.0\ref\task4.dll
