@@ -1,0 +1,14 @@
+C:\Users\belog\source\repos\task9\task9\bin\Debug\net10.0\task9.exe
+C:\Users\belog\source\repos\task9\task9\bin\Debug\net10.0\task9.deps.json
+C:\Users\belog\source\repos\task9\task9\bin\Debug\net10.0\task9.runtimeconfig.json
+C:\Users\belog\source\repos\task9\task9\bin\Debug\net10.0\task9.dll
+C:\Users\belog\source\repos\task9\task9\bin\Debug\net10.0\task9.pdb
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.AssemblyInfoInputs.cache
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.AssemblyInfo.cs
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.csproj.CoreCompileInputs.cache
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.dll
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\refint\task9.dll
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.pdb
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\task9.genruntimeconfig.cache
+C:\Users\belog\source\repos\task9\task9\obj\Debug\net10.0\ref\task9.dll
